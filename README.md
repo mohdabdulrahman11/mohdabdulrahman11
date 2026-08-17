@@ -83,8 +83,6 @@ Python · ML · SQL · Power BI · DAX
 
 ## 📂 Featured Projects
 
-> 
-
 <table>
 <tr>
 <th>Project</th>
@@ -92,9 +90,9 @@ Python · ML · SQL · Power BI · DAX
 <th>Stack</th>
 </tr>
 <tr>
-<td><b><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">Project Name One</a></b></td>
-<td>One-line description of the problem it solves and the outcome/impact.</td>
-<td><img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/scikit--learn-020617?style=flat-square&logo=scikitlearn&logoColor=F472B6"/></td>
+<td><b><a href="https://github.com/mohdabdulrahman11/Customer-Churn-Prediction">Customer Churn Prediction</a></b></td>
+<td>ML pipeline to predict telecom customer churn — achieved 0.837 ROC-AUC and 79.5% recall on imbalanced data.</td>
+<td><img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/scikit--learn-020617?style=flat-square&logo=scikitlearn&logoColor=F472B6"/> <img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=67E8F9"/></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">Project Name Two</a></b></td>
@@ -107,8 +105,6 @@ Python · ML · SQL · Power BI · DAX
 <td><img src="https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=F472B6"/></td>
 </tr>
 </table>
-
-<br/>
 
 ## 🚀 What I'm Exploring
 
