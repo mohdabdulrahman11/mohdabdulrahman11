@@ -8,7 +8,7 @@
 
 <a href="https://github.com/mohdabdulrahman11"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/></a>
 <a href="https://www.linkedin.com/in/mohammed-abdul-rahman-3b9862415?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/></a>
-<a href="mailto:mohdabdulrahman7143@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
+<a href="mailto:mohdabdulrahman0604@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=67E8F9&height=2&width=600" width="600"/>
 
