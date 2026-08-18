@@ -95,9 +95,9 @@ Python · ML · SQL · Power BI · DAX
 <td><img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/scikit--learn-020617?style=flat-square&logo=scikitlearn&logoColor=F472B6"/> <img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=67E8F9"/></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">Project Name Two</a></b></td>
-<td>One-line description of the problem it solves and the outcome/impact.</td>
-<td><img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/Power%20BI-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/></td>
+<td><b><a href="https://github.com/mohdabdulrahman11/imdb-analytics-dashboard-powerbi">IMDb Analytics Dashboard</a></b></td>
+<td>Interactive Power BI dashboard analyzing 5,283 IMDb titles over 50 years — uncovering rating trends, viewer engagement, and content distribution.</td>
+<td><img src="https://img.shields.io/badge/Power%20BI-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/DAX-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/Power%20Query-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">Project Name Three</a></b></td>
@@ -105,7 +105,6 @@ Python · ML · SQL · Power BI · DAX
 <td><img src="https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=F472B6"/></td>
 </tr>
 </table>
-
 ## 🚀 What I'm Exploring
 
 <div align="center">
