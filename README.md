@@ -100,9 +100,9 @@ Python · ML · SQL · Power BI · DAX
 <td><img src="https://img.shields.io/badge/Power%20BI-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/DAX-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/Power%20Query-020617?style=flat-square&logo=powerbi&logoColor=F2C811"/></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">Project Name Three</a></b></td>
-<td>One-line description of the problem it solves and the outcome/impact.</td>
-<td><img src="https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=F472B6"/></td>
+<td><b><a href="https://github.com/mohdabdulrahman11/pneumonia-detection-cnn">Pneumonia Detection CNN</a></b> 🚧</td>
+<td>ResNet50 transfer learning pipeline to classify chest X-rays as Normal or Pneumonia — modular src/ architecture with augmentation, early stopping, and inference logic.</td>
+<td><img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=67E8F9"/> <img src="https://img.shields.io/badge/TensorFlow-020617?style=flat-square&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Keras-020617?style=flat-square&logo=keras&logoColor=D00000"/></td>
 </tr>
 </table>
 ## 🚀 What I'm Exploring
